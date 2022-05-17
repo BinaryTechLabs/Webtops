@@ -51,11 +51,5 @@
       "label": "TZ",
       "default": "America/Winnipeg"
     }
-  ],
-  "devices": [
-    {
-      "host": "/dev/dri",
-      "container": "/dev/dri"
-    }
   ]
 }
